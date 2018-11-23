@@ -1,0 +1,38 @@
+{
+  "name": "vadi",
+  "version": "0.0.1",
+  "description": "Simple, scalable state management. ",
+  "main": "built/src/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "start": "mnr develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meitianyitan/robx.git"
+  },
+  "keywords": [
+    "robx",
+    "robservable",
+    "observable",
+    "react-component",
+    "react",
+    "reactjs",
+    "reactive",
+    "model",
+    "frp",
+    "functional-reactive-programming",
+    "state management",
+    "data flow"
+  ],
+  "author": "Weich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meitianyitan/robx/issues"
+  },
+  "homepage": "https://github.com/meitianyitan/robx#readme",
+  "devDependencies": {
+    "mnr": "^0.0.2"
+  }
+}
